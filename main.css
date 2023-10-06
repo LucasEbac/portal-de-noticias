@@ -52,3 +52,9 @@ color: blueviolet;
 #economia .articles article {
     color: rgb(10, 134, 55);
 }
+#saude .articles article {
+    color: rgb(12, 111, 164);
+}
+#saude h3 {
+    color: black;
+}
